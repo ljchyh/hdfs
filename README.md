@@ -1,2 +1,0 @@
-# hdfs
-hdfs java api
